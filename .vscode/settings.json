@@ -6,5 +6,5 @@
         "titleBar.inactiveForeground": "#e7e7e7"
     },
     "python.linting.pylintEnabled": false,
-    "python.pythonPath": "C:\\Anaconda\\python.exe"
+    "python.pythonPath": "D:\\ProgramFiles\\Anaconda3\\envs\\pythonflask\\python.exe"
 }
